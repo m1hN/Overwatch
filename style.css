@@ -1,0 +1,46 @@
+html {
+    background: url(img/background.webp) no-repeat center fixed black;
+    background-size: 1700px;
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: solid;
+    width: 900px;
+    margin: 25px auto;
+    padding: 25px 150px 50px;
+    font-family: "Pixelify Sans", cursive;
+    text-align: center;
+    border-radius: 3%;
+}
+
+p {
+    font-family: "Pixelify Sans", cursive;
+    text-align: center;
+    font-size: 25px;
+}  
+
+ul {
+    text-align: left;
+    font-size: 30px;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block solid;
+}
+
+button {
+  width: 500px;
+  height: 100px;
+  font-size: 30px;
+  background-color: rgb(255, 166, 0);
+  color: aliceblue;
+  border: none;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
